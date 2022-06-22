@@ -6,6 +6,8 @@
     <Strong>☁️Contact☁️</Strong><br><br>
     <a href="https://velog.io/@skwx50000" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100024385612473" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+    <a href="https://www.instagram.com/walnutp1e/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+    <br>
 <!--
 **SangYun0922/SangYun0922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
