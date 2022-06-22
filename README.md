@@ -8,6 +8,12 @@
   <a href="https://www.facebook.com/profile.php?id=100024385612473" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
     <a href="https://www.instagram.com/walnutp1e/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
     <br>
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangYun0922&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br><br>
+<Strong>📧Email📧</Strong><br>skwx50000@gmail.com<br>
+</p>
+
 <!--
 **SangYun0922/SangYun0922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
