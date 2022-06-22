@@ -13,21 +13,24 @@
     <br>
     <br>
     <Strong>📧Email📧</Strong><br>skwx50000@gmail.com<br>
+
 </p>
 
-<!--
-**SangYun0922/SangYun0922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    💡used as the main
+</p>
 
-Here are some ideas to get you started:
+<p align="center" display="inline-block">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
+      <img src="https://img.shields.io/badge/Node.js-6DB33F?style=for-the-badge&logo=Node.js&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+</p><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangYun0922&langs_count=8)](https://github.com/SangYun0922/github-readme-stats
+<div align=center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![SangYun's github stats](https://github-readme-stats.vercel.app/api?username=SangYun0922&show_icons=true)
